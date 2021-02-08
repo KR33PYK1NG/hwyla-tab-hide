@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "mixins.hwyla-tab-hide.refmap.json",
+    "package": "rmc.mixins.hwyla_tab_hide",
+    "mixins": [
+        "WailaClientMixin"
+    ]
+}
